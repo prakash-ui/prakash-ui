@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 
-<h3 align="center">Full Stack Developer, ML and AI Enthusiast</h3>
+<h3 align="center">Software Developer Specializing in Full Stack & Artificial Intelligence</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prakash-ui&label=Profile%20views&color=0e75b6&style=flat" alt="prakash-ui" />
